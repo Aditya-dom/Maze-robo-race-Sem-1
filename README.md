@@ -1,5 +1,5 @@
 # Maze-robo-race-Sem-1_project
-## IIT Bombay Compitition - (SEM 1 Freshman Code push: Aditya [IET'27 Lucknow] )
+## IIT Bombay Competition
 ## Maze Solving with a raspberry pi and Ardiuno
 ##
 Raspberry pi
